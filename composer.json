@@ -1,0 +1,15 @@
+{
+  "name": "zafarjonovich/yii2-ajax-modal",
+  "minimum-stability": "dev",
+  "type": "package",
+  "require": {
+    "php": ">=7.4.0",
+    "yiisoft/yii2": "^2.0.13",
+    "yiisoft/yii2-bootstrap4": "~2.0.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "zafarjonovich\\Yii2AjaxModal\\": "src"
+    }
+  }
+}
